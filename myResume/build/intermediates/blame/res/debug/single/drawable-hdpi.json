@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\closed.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\closed.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qq.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mail.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\opened.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\opened.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sms.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\sms.png"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\drawable-hdpi\\phone.png"
+    }
+]

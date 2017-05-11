@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\copyactivity_main.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\copyactivity_main.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutme.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\activity_aboutme.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\exploded-aar\\MyResume\\animatedExpandableListView\\unspecified\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_me.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\list_item_me.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_main.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\actionbar_main.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\activity_other.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\activity_other.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\childview.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\childview.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\exploded-aar\\MyResume\\animatedExpandableListView\\unspecified\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_me.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\group_item_me.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\exploded-aar\\MyResume\\animatedExpandableListView\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\res\\merged\\debug\\layout\\activity_content.xml",
+        "source": "F:\\Android-studio\\MyResume\\myResume\\src\\main\\res\\layout\\activity_content.xml"
+    }
+]

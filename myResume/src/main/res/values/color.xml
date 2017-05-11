@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bule_me">#33B5E5</drawable>
+    <drawable name="red_me">#FF4444</drawable>
+    <drawable name="purple_me">#AA66CC</drawable>
+    <drawable name="orange_me">#FFBB33</drawable>
+    <drawable name="green_me">#669900</drawable>
+    
+</resources>

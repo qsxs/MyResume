@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="F:\Android-studio\MyResume\myResume\build\intermediates\exploded-aar\MyResume\animatedExpandableListView\unspecified\assets"/></dataSet><dataSet config="main"><source path="F:\Android-studio\MyResume\myResume\src\main\assets"/><source path="F:\Android-studio\MyResume\myResume\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Android-studio\MyResume\myResume\src\debug\assets"/></dataSet></merger>

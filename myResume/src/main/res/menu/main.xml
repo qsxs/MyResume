@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.six.myresume.MainActivity" >
+
+    <item
+        android:id="@+id/menu_all"
+        android:orderInCategory="100"
+        android:icon="@drawable/phone"
+        android:showAsAction="always"
+        android:title="联系我">
+        <menu>
+            <item
+                android:id="@+id/menu_call"
+                android:orderInCategory="100"
+                android:showAsAction="never"
+                android:title="电话联系我"/>
+            <item
+                android:id="@+id/menu_sms"
+                android:orderInCategory="101"
+                android:showAsAction="never"
+                android:title="短信联系我"/>
+        </menu>
+    </item>
+
+</menu>

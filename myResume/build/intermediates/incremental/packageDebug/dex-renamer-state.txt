@@ -1,0 +1,7 @@
+#Thu May 11 21:23:59 CST 2017
+base.0=F\:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b43543595b79f820d6200168f54febac3752d9b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_80e9c5317a3483ad5d51f171423506363926db4b\\classes.dex
+base.1=F\:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_80e9c5317a3483ad5d51f171423506363926db4b
+file.0=F\:\\Android-studio\\MyResume\\myResume\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b43543595b79f820d6200168f54febac3752d9b1\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\soft\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Android-studio\MyResume\myResume\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_f47379438e27b82ad832dc6853c80809e93bfb07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-studio\MyResume\myResume\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0deffd804547c6cd2eceefe5fa108711d79eb061">
+        <dex dex="F:\Android-studio\MyResume\myResume\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_80e9c5317a3483ad5d51f171423506363926db4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-studio\MyResume\myResume\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62fc59bc50014958853be8427eea8713d5bc5a62">
+        <dex dex="F:\Android-studio\MyResume\myResume\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b43543595b79f820d6200168f54febac3752d9b1\classes.dex" />
+    </item>
+
+</items>
